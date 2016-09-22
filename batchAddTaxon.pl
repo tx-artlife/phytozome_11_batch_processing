@@ -2,7 +2,7 @@
 use strict;
 ##this perl add the taxon name to gene name in fasta file for each species using the orthomcl perl code orthomclAdjustFasta
 ##for example: >AT3G02220 will be modified as >Ath|AT3G02220
-
+##for details, see usage of orthomclAdjustFasta
 ##output files will be in the same folder as this perl, so make sure run this perl in a specific folder 
 my $processed="/home/xutan/plantae_genome_phytozome11/processed/processed/";##output folder of batch.pl
 my $splist="/home/xutan/plantae_genome_phytozome11/processed/species_list_shortname.txt"; ##
