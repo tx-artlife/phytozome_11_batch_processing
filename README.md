@@ -14,6 +14,7 @@ Input:
         sp2       sp2_shortname
   4. a folder to contain the processed files: output_folder
         ... ...
+
 Output: 
   0. for each species, create a folder in output folder using the shortnames
   1. extract gff3 file to sp_shortname.gff3 and protein fasta file to sp_shortname.protein.fasta into the same folder as gz files for each species
