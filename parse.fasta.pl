@@ -1,4 +1,6 @@
 #!usr/bin/perl;
+####this can be used alone
+
 use warnings;
 use Bio::SeqIO;
 
